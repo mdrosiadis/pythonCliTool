@@ -6,8 +6,8 @@ inside a system in either JSON or csv form to a file-like object (default stdout
 
 ## Usage:
 
-**hr --path path/to/file.txt**  <p> Outputs contents into file.txt.</p>
-**hr --format [json,csv]**        <p> utputs contents in corresponding format.</p>
+**hr --path path/to/file.txt**  Outputs contents into file.txt.
+**hr --format [json,csv]**      Outputs contents in corresponding format.
 
 ### Example Output
 
