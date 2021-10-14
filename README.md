@@ -1,20 +1,20 @@
 
 # User Information Utility CLI
 
-A simple python3.x utility script that returns the basic user information
-inside a system in either JSON or csv form to a file-like object (default stdout)
+</p>A simple python3.x utility script that returns the basic user information
+inside a system in either JSON or csv form to a file-like object (default stdout)</p>
 
 ## Usage:
 
-**hr --path path/to/file.txt** Outputs contents into file.txt.
-**hr --format json/csv**       Outputs contents in corresponding format.
+<p>**hr --path path/to/file.txt** Outputs contents into file.txt.</p>
+<p>**hr --format json/csv**       Outputs contents in corresponding format.</p>
 
 
 ### Example Output
 
-user@host: $hr
+<p>user@host: $hr</p>
 
-'''json
+```json
 [
     {
         "name": "username",
@@ -23,6 +23,6 @@ user@host: $hr
         "shell": "/usr/bin/bash"
     }
 ]
-'''
+```
 
 
